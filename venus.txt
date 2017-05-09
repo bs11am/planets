@@ -3,3 +3,7 @@ venus is the second closest planet to the sun
 venus is a planet
 it is hot
 the smell is sulpher 
+
+Further changes to the venus file that contains absolutely no information 
+on venus whatsoever. 
+
